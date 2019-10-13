@@ -1,0 +1,73 @@
+.jumbotron {
+    min-height: 300px;
+    background-image: url(../../_img/background/information-technology-background-png-1.png);
+    background-size: cover;
+}
+
+.jumbotron img {
+    width: 250px;
+}
+
+.about hr {
+    width: 250px;
+    border-top: 3px solid grey;
+}
+
+.p-jumbotron {
+    text-align: justify;
+    text-indent: 20px;
+    background-color: white;
+    margin: 20px;
+    line-height: 50px;
+}
+
+section {
+    min-height: 350px;
+}
+
+.about p {
+    text-align: justify;
+    text-indent: 20px;
+}
+
+.portfolio {
+    background-color: lightgray;
+}
+
+.portfolio h2,
+.contact h2 {
+    margin: 20px;
+}
+
+.portfolio hr,
+.contact hr {
+    width: 250px;
+    border-top: 3px solid grey;
+}
+
+.portfolio img {
+    background-size: cover;
+}
+
+.thumb :hover {
+    background-color: darkgray;
+}
+
+.contact button {
+    margin-bottom: 40px;
+}
+
+#row-footer img {
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    /* border: 2px dashed black; */
+    padding: 5px;
+    display: inline-block;
+}
+
+.findUs img:hover {
+    border: 1px dotted black;
+}
